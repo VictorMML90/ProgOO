@@ -1,3 +1,3 @@
 # ProgOO
 
-[LINK](./img/ar.md)
+[LINK](./paradigma OO/ar.md)
