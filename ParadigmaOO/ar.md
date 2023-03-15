@@ -4,4 +4,8 @@
 
 # La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. 
 
-#
+# Abstracción 
+
+Podrá decirse que son todas aquellas características específicas de un objeto que lo distinguen de los demás tipos de objetos.
+
+Es fundamental pues nos permite crear un modelo general de un objeto , y heredar sus atributos y comportamientos a otros objetos específicos, lo cual nos permite reutilizar el código
