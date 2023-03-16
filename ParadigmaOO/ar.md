@@ -14,5 +14,5 @@
 
 ![](./img/herencia-min.png "herencia")
 ![](./img/94489697-9910-4c8e-ade7-ee3fa996362f.jpg "herencia1")
--
+# UML: Diagrama de clases
 
