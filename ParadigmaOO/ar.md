@@ -6,9 +6,11 @@
 #### Podrá decirse que son todas aquellas características específicas de un objeto que lo distinguen de los demás tipos de objetos. Es fundamental pues nos permite crear un modelo general de un objeto , y heredar sus atributos y comportamientos a otros objetos específicos, lo cual nos permite reutilizar el código
 # Encapsulamiento
 #### La encapsulación es un mecanismo para reunir datos y métodos dentro de una estructura ocultando la implementación del objeto, es decir, impidiendo el acceso a los datos por cualquier medio que no sean los servicios propuestos.En resumen como ejemplo si tienes dos variables con el mismo nombre pero con distinta clase. El método se pone en private para que solo el método tenga acceso a esa variable.
+![](./img/1024px-CPT-OOP-interfaces.svg.png "encapsulamiento")
 # Herencia
 #### La herencia permite que se puedan definir nuevas clases basadas en otra clase con el fin  de heredar las características y atributos de otra clase.
 
 ![](./img/herencia-min.png "herencia")
 ![](./img/94489697-9910-4c8e-ade7-ee3fa996362f.jpg "herencia1")
+
 
