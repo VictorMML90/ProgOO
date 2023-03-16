@@ -6,3 +6,4 @@
 #### Podrá decirse que son todas aquellas características específicas de un objeto que lo distinguen de los demás tipos de objetos. Es fundamental pues nos permite crear un modelo general de un objeto , y heredar sus atributos y comportamientos a otros objetos específicos, lo cual nos permite reutilizar el código
 # Encapsulamiento
 #### La encapsulación es un mecanismo para reunir datos y métodos dentro de una estructura ocultando la implementación del objeto, es decir, impidiendo el acceso a los datos por cualquier medio que no sean los servicios propuestos.En resumen como ejemplo si tienes dos variables con el mismo nombre pero con distinta clase. El método se pone en private para que solo el método tenga acceso a esa variable.
+![](./ParadigmaOO/img/https://d.img.vision/encapsulamientomml/herencia-min.png "herencia1")
