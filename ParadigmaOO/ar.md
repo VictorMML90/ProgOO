@@ -10,3 +10,4 @@
 #### La herencia permite que se puedan definir nuevas clases basadas en otra clase con el fin  de heredar las características y atributos de otra clase.
 
 ![](./ParadigmaOO/img/https://d.img.vision/encapsulamientomml/herencia-min.png "herencia1")
+![](./img/https://www.netmentor.es/imagen/94489697-9910-4c8e-ade7-ee3fa996362f.jpg "herencia2")
