@@ -11,3 +11,4 @@
 
 ![](./ParadigmaOO/img/https://d.img.vision/encapsulamientomml/herencia-min.png "herencia1")
 ![](./img/https://www.netmentor.es/imagen/94489697-9910-4c8e-ade7-ee3fa996362f.jpg "herencia2")
+![](./ParadigmaOO/img/94489697-9910-4c8e-ade7-ee3fa996362f.jpg.1 "he")
