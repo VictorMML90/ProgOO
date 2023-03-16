@@ -15,4 +15,5 @@
 ![](./img/herencia-min.png "herencia")
 ![](./img/94489697-9910-4c8e-ade7-ee3fa996362f.jpg "herencia1")
 # UML: Diagrama de clases
-
+## Resumen
+#### El UML (Lenguaje de modelo unificado) comenzó a desarrollarse en 1994. Su origen comenzó cuando Rumbaugh se unió a la compañía de Booch. El objetivo de ambos investigadores era unificar dos métodos que ya habían sido desarrollados ( Método Booch y Object Modelling Tool). Una vez tenían su primer borrador en 1995 , apareció otro investigador llamado Jacobson para unirse a ellos y aportar sus ideas.Este lenguaje se abrió a colaboraciones con otras empresas con el fin de que se aportaran nuevas ideas.Todas estas ideas y colaboraciones nos trajeron lo que es la primera versión del UML. La finalidad de este lenguaje fue tener el modelado visual , el diseño  y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento. Algunas de las herramientas para el modelado de UML son: Lucidchart, MagicDraw, Gliffy y GitMind. Actualmente no conozco ninguna empresa local que utilice el UML. Actualmente no es tan utilizado.
